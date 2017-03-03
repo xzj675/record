@@ -5,33 +5,11 @@ description: > # this means to ignore newlines until "baseurl:"
   菜鸟的博客
 baseurl: "/record" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
-author: Su Yan
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 recent_num: 20
-
-# Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
-
-# avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
-
-# disqus config
-disqus:
-  shortname: suyan-zh
-
-# google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
