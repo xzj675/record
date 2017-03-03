@@ -1,10 +1,10 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 菜鸟的博客
+email: whutxzj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+  菜鸟的博客
+baseurl: "/record" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
