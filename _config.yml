@@ -4,7 +4,7 @@ email: whutxzj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   菜鸟的博客
 baseurl: "/record" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://xzj675.github.io" # the base hostname & protocol for your site
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
