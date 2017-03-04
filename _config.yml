@@ -14,6 +14,8 @@ favicon : "http://dynamic-image.yesky.com/600x-/uploadImages/upload/20141120/abv
 filter: 'category'
 recent_num: 20
 
+github: xzj675
+
 # Build settings
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
