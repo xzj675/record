@@ -10,6 +10,6 @@ keywords: Git
  
  可以通过如下方法解决：
  
- git clone的时候选做ssh的方式
+ git clone的时候选则ssh的方式
  ![image](http://omc2imhgu.bkt.clouddn.com/MacHi%202017-03-05%2016-13-24.png)
 
