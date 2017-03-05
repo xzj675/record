@@ -12,4 +12,5 @@ keywords: Git
  
  git clone的时候选则ssh的方式
  ![image](http://omc2imhgu.bkt.clouddn.com/MacHi%202017-03-05%2016-13-24.png)
+ ![image2](http://omc2imhgu.bkt.clouddn.com/MacHi%202017-03-05%2016-37-58.png)
 
